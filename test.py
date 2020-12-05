@@ -7,12 +7,12 @@ from telethon import TelegramClient, sync, events
 
 # get your api_id, api_hash, token 
 # from telegram as described above 
-api_id = 'API_id'
-api_hash = 'API_hash'
-token = 'bot token'
+api_id = '2614714'
+api_hash = 'd685c6a8e34ad5ebad82b29259c83c40'
+token = '1354536500:AAF-lNFBnsVFWOxp1sjIQPMJSJCTyc4y74U'
 
 # your phone number 
-phone = 'YOUR_PHONE_NUMBER_WTH_COUNTRY_CODE'
+phone = '+12016877934'
 
 # creating a telegram session and assigning 
 # it to a variable client 
